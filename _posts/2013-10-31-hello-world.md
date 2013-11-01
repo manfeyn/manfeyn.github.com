@@ -6,4 +6,4 @@ category: "test"
 tags: [test]
 ---
 
-Hello, world. I am coming.
+你好，世界. I am coming.
