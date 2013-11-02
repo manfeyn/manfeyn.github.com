@@ -1,0 +1,15 @@
+---
+layout: post
+title: "the first experience of codeforce"
+description: ""
+category: "coding"
+tags: [codeforce, OJ]
+---
+上次在公司做了套笔试题，发现自己对算法的理解太弱了，做一道很基本的算法题目都出现了逻辑不清的事情。
+于是准备找个OJ做做题目，也顺便补补自己的coding熟练度。
+
+不知道是不是家里网络的问题（我装的是上海移动的有线通），TP上部分房间进不去，于是就选了同样可以看到其他人代码的codeforces。
+断断续续做了十天，感觉还不错。
+首先题目的区分度比较好，CP上面的题目使用了比赛时的名称，这样就可以根据ABCDE选择不同的难度。也可以看AC数目，据说CP上的AC数目要比POJ上的AC数目更能体现题目的难度。
+其次，CP也提供了题目的Tutorial。
+剩下的，就是可以看别人的代码了。
