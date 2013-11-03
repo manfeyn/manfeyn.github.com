@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "the first experience of codeforce"
+Comments: true
 description: ""
 category: "coding"
 tags: [codeforce, OJ]
