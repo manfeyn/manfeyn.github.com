@@ -6,6 +6,8 @@ description: ""
 category: "coding"
 tags: [codeforce, OJ]
 ---
+{{ page.title }}
+==
 上次在公司做了套笔试题，发现自己对算法的理解太弱了，做一道很基本的算法题目都出现了逻辑不清的事情。
 于是准备找个OJ做做题目，也顺便补补自己的coding熟练度。
 
