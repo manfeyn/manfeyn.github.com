@@ -30,7 +30,7 @@ Complete Search（穷竭搜索）
 
 	利用*深度搜索*获得所有的字符串，再判断该字符串是否符合条件。
 
-	Trick：1. 利用stl中的set存储文件中的字符串；2. 
+	Trick：1. 利用stl中的set存储文件中的字符串；
 
 4. Palindromic Squares
 
