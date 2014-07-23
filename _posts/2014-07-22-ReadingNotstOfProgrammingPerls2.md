@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Reading Notes of Programming Perls "
+categories: Reading Notes
+- 
+tags:
+- 
+
+---
+
 ##第二部分 性能
 
 > 当程序实现了用户的需求时，下一步就是关心提高程序的性能了。
