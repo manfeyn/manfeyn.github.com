@@ -1,5 +1,13 @@
-##编程珠玑
+---
+layout: post
+title: "编程珠玑读书笔记（1）"
+description: ""
+category: "Reading Notes"
+tags: [Reading Notes]
+---
 
+##第一部分 基础
+---
 ###第一章 开篇
 
 > 正确的问题。 

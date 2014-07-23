@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Reading Notes of Programming Perls "
-categories: Reading Notes
-- 
-tags:
-- 
-
+title: "编程珠玑读书笔记（2）"
+description: ""
+category: "Reading Notes"
+tags: [Reading Notes]
 ---
 
 ##第二部分 性能
